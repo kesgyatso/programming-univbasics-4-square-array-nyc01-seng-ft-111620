@@ -1,7 +1,10 @@
-array
-new_array
 
 
 def square_array(array)
+  
+  array
+new_array
+
+  
   # your code here
 end
