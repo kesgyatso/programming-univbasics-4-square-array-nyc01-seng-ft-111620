@@ -2,7 +2,7 @@
 
 def square_array(array)
   
-  array
+  squared
 new_array
 
   
